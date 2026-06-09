@@ -11,9 +11,6 @@ html{
     scroll-behavior:smooth;
 }
 
-body{
-    background:red;
-}
 :root {
     --sage: #7a9e7e;
     --sage-light: #b5ceb8;
